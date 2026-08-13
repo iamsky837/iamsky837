@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=SKY+%E2%80%A2+Full+Stack+Developer;Building+Fast+%26+Clean+Digital+Experiences;Open+Source+%7C+UI%2FUX+%7C+Performance+Focused;PawGram+%E2%80%A2+PawTube+%E2%80%A2+Pawtify" />
@@ -25,7 +24,7 @@ const skye = {
             "PawGram",
             "PawTube",
             "Pawtify",
-            "PawDownloader"
+            "PawIDE"
         ]
     },
 
@@ -72,7 +71,7 @@ I enjoy building projects that feel smooth, lightweight and practical while main
 | 🐾 **PawGram** | Optimized social experience focused on smoothness and usability | 🟢 Active |
 | 📺 **PawTube** | Lightweight and clean media-focused platform experience | 🟢 Active |
 | 🎵 **Pawtify** | Futuristic music player web app with immersive UI | 🟢 Active |
-| 📥 **PawDownloader** | An utility Telegram Bot to save Instagram Posts | 🟢 Active |
+| 🖥️ **PawIDE** | A HTML5 compiler frontend webApp | 🟢 Active |
 
 </div>
 
@@ -90,7 +89,7 @@ I enjoy building projects that feel smooth, lightweight and practical while main
     <img src="https://img.shields.io/static/v1?label=&message=Telegram&color=121212&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
-<a href="https://www.instagram.com/theskye837">
+<a href="https://www.instagram.com/skykoderhere">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=121212&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
