@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="75px"/>
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=SKY+%E2%80%A2+Full+Stack+Developer;Building+Fast+%26+Clean+Digital+Experiences;Open+Source+%7C+UI%2FUX+%7C+Performance+Focused;PawGram+%E2%80%A2+PawTube+%E2%80%A2+Pawtify" />
 
 <br>
