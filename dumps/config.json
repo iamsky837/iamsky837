@@ -1,0 +1,10 @@
+[
+  {
+    "id": "001",
+    "downloadUrl": "https://example.com/download/file1.zip"
+  },
+  {
+    "id": "002",
+    "downloadUrl": "https://example.com/download/file2.zip"
+  }
+]
