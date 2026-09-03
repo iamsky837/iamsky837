@@ -5,8 +5,8 @@
 ---
 
 ## ◇ PROJECTS
-- [Project](URL) — description
-- [Project](URL) — description
+- [PawGram](https://github.com/pawjects/PawGram) — PawGram is an Instagram Alpha Client with built-in iOS Emojis and customisable experience 
+- [PawTube](URL) — PawTube is a Frontend YouTube no-cookie embed player webApp 
 
 ## ◇ APIS
 - [API](URL) — purpose
