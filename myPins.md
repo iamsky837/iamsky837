@@ -1,88 +1,30 @@
-# ◌ MY URL VAULT
+# ◌ SKYE / URL VAULT
 
-> a small collection of things worth keeping.
-> last updated: YYYY-MM-DD
-
----
-
-## ◇ DEVELOPMENT
-
-### ▸ Projects
-- [Project Name](https://example.com) — short description
-- [Project Name](https://example.com) — short description
-
-### ▸ Documentation
-- [Documentation](https://example.com)
-- [API Reference](https://example.com)
-
-### ▸ Tools
-- [Tool Name](https://example.com) — what I use it for
-- [Tool Name](https://example.com)
+> projects · tools · APIs · docs
 
 ---
 
-## ◇ DESIGN
+## ◇ PROJECTS
+- [Project](URL) — description
+- [Project](URL) — description
 
-- [Resource](https://example.com) — description
-- [Resource](https://example.com) — description
+## ◇ APIS
+- [API](URL) — purpose
+- [API](URL) — purpose
 
----
+## ◇ TOOLS
+- [Tool](URL) — purpose
+- [Tool](URL) — purpose
 
-## ◇ LEARNING
+## ◇ DOCS
+- [Documentation](URL)
+- [Reference](URL)
 
-### ▸ Physics
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-### ▸ Mathematics
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-### ▸ Programming
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
----
-
-## ◇ USEFUL
-
-- [Website](https://example.com) — why I keep it
-- [Website](https://example.com) — why I keep it
-- [Website](https://example.com) — why I keep it
+## ◇ DEPLOYMENT
+- [Vercel](URL)
+- [GitHub](URL)
+- [Domain](URL)
 
 ---
 
-## ◇ MUSIC
-
-- [Service / API](https://example.com)
-- [Playlist](https://example.com)
-- [Archive](https://example.com)
-
----
-
-## ◇ INSPIRATION
-
-- [Website](https://example.com) — inspiration
-- [Website](https://example.com) — inspiration
-
----
-
-## ◇ PERSONAL
-
-- [Link](https://example.com)
-- [Link](https://example.com)
-
----
-
-## ◇ ARCHIVE
-
-> old links, references & things I might need someday.
-
-- [Old Resource](https://example.com)
-- [Old Project](https://example.com)
-
----
-
-### ─────────────────────────
-
-`⌁ keep it simple. keep it useful.`
+`⌁ build · ship · iterate`
